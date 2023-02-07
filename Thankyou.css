@@ -1,6 +1,29 @@
-body {background-color: #fdf0eb; color: #231f20; text-align: center;}
-h1 {font-size: 40px;}
-#button {color: #231f20; background-color: #eacab0; text-decoration: none; font-size: 30px; padding-left: 10px; padding-right: 10px; }
-.social-media {width: 60px; border-radius: 50px; margin: 20px}
-.lildescrippy {font-size: 20px;}
-#logo {margin-bottom: -150px; margin-top: -150px; width: 600px; height: 600px;}
+body {
+    background-color: #fdf0eb; 
+    color: #231f20; 
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+#button {
+    color: #231f20; 
+    background-color: #eacab0; 
+    text-decoration: none; 
+    font-size: 30px; 
+    padding-left: 10px; 
+    padding-right: 10px; 
+}
+.social-media {
+    width: 60px; 
+    border-radius: 50px; 
+    margin: 20px
+}
+.lildescrippy {
+    font-size: 20px;
+}
+#logo {
+    margin-bottom: -150px; 
+    margin-top: -150px; width: 600px; 
+    height: 600px;
+}
